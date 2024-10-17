@@ -17,7 +17,7 @@ body {
     display: flex;
   justify-content: center;
   padding: 20px;
-  margin: 10px;
+  margin: 50px;
   height: 70px;
   background-color: rgba(7, 7, 7, 0.301);
   border-radius: 10px;
@@ -26,18 +26,21 @@ body {
 h2 {
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    color: grey;
 }
 
 .centerButton {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  height: 20vh;
 }
 .startGameButton {
   font-size: 1.5rem;
   text-align: center;
-  padding: 50px;
+  padding: 10px;
   background-color: rgba(0, 0, 0, 0.37);
   border-radius: 10px;
 }
@@ -86,5 +89,5 @@ p {
 .imageformat {
   display: flex;
   justify-content: center;
-  margin-top: 100px;
+  margin-top: 50px;
 }
