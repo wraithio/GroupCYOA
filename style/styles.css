@@ -4,16 +4,16 @@
 */
 
 body {
-  background-color: rgb(33, 37, 41);
-}
-.centerText {
-  display: flex;
-  justify-content: center;
-}
-/* ----------------------------Title Page ---------------------*/
-h1 {
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  font-size: 3.5rem;
+    background-color: rgb(33, 37, 41);
+  
+  }
+  .centerText {
+    display: flex;
+    justify-content: center;
+  }
+  /* ----------------------------Tittle Page ---------------------*/ 
+  h1 {
+    font-size: 3rem;
     display: flex;
   justify-content: center;
   padding: 20px;
