@@ -51,7 +51,7 @@ body {
   #buttonContainer {
       display: flex;
       margin-top: 425px;
-      justify-content: space-around;
+      justify-content: space-evenly;
   }
   /* Story Text */
   p {  
