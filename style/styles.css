@@ -3,8 +3,9 @@
     make buttons functional
 */
 body {
-    background-color: rgb(33, 37, 41);
-  
+    background-image: url("./assests/cyoapark.jpg");
+    background-color: #b3b3b350;
+
   }
   .centerText {
     display: flex;
