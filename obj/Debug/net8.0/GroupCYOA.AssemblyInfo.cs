@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GroupCYOA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df1d92300a1eebdab85248d2427479be394cd12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38c0e0a5f57d209455b99126ef352fa1d4320ffd")]
 [assembly: System.Reflection.AssemblyProductAttribute("GroupCYOA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GroupCYOA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
