@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodeStack\\Level 1\\GroupCYOA\\GroupCYOA.csproj": {}
+    "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\GroupCYOA.csproj": {}
   },
   "projects": {
-    "E:\\CodeStack\\Level 1\\GroupCYOA\\GroupCYOA.csproj": {
+    "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\GroupCYOA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeStack\\Level 1\\GroupCYOA\\GroupCYOA.csproj",
+        "projectUniqueName": "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\GroupCYOA.csproj",
         "projectName": "GroupCYOA",
-        "projectPath": "E:\\CodeStack\\Level 1\\GroupCYOA\\GroupCYOA.csproj",
-        "packagesPath": "C:\\Users\\getto\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeStack\\Level 1\\GroupCYOA\\obj\\",
+        "projectPath": "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\GroupCYOA.csproj",
+        "packagesPath": "C:\\Users\\aarmo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\getto\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\aarmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
