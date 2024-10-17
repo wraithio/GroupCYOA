@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\aarmo\\.nuget\\packages\\": {}
+    "/Users/nushkumar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\GroupCYOA.csproj",
+      "projectUniqueName": "/Users/nushkumar/Desktop/CodeStack/Level 1/Week 1/CYOA TEST GROUP/GroupCYOA/GroupCYOA.csproj",
       "projectName": "GroupCYOA",
-      "projectPath": "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\GroupCYOA.csproj",
-      "packagesPath": "C:\\Users\\aarmo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aarmo\\CodeStack\\Level1\\Week1\\GroupCYOA\\obj\\",
+      "projectPath": "/Users/nushkumar/Desktop/CodeStack/Level 1/Week 1/CYOA TEST GROUP/GroupCYOA/GroupCYOA.csproj",
+      "packagesPath": "/Users/nushkumar/.nuget/packages/",
+      "outputPath": "/Users/nushkumar/Desktop/CodeStack/Level 1/Week 1/CYOA TEST GROUP/GroupCYOA/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\aarmo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/nushkumar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -64,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
